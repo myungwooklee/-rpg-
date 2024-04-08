@@ -20,5 +20,6 @@
     {"name":"Object2","order":2,"path":"objects/Object2/Object2.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
   ],
 }
