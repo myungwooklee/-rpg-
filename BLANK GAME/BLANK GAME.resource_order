@@ -17,6 +17,8 @@
     {"name":"확장","order":14,"path":"folders/확장.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Object2","order":2,"path":"objects/Object2/Object2.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
   ],
 }
